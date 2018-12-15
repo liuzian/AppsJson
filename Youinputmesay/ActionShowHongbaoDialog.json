@@ -1,5 +1,5 @@
 ﻿{
-    "is_show_dialog": 0,
+    "is_show_dialog": 1,
     "UI_show": {
         "title": "支付宝红包",
         "content": "尊敬的用户你好，支付宝新用户红包更大，还有机会获得余额宝消费红包。去实体店消费，抵扣现金",
